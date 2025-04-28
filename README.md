@@ -20,8 +20,8 @@ Below are the screenshots of all the outlines processes of the acounts sign up a
 ## GIT
 ![gitbash_version](./img/gitbash_version.png)
 
-## VISUAL C++ AND VIRTUALBOX
-![visualc++_completeinst](./img/VISUALC++_success.png)[virtualbox_complete](./img/VIRTUALBOX.png)
+## VIRTUALBOX
+![virtualbox_complete](./img/VIRTUALBOX.png)
 
 ## UBUNTU
 ![Ubuntu_complete](./img/ubuntu_login.png)[ubuntu_login](./img/Ubuntu_complete_installation.png)
